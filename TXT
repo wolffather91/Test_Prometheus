@@ -1,0 +1,2 @@
+kubectl apply -f https://raw.githubusercontent.com/wolffather91/Test_Prometheus/main/prometheus_rbac.yaml --force-conflicts=true --server-side=true
+kubectl apply -f 
